@@ -1,5 +1,5 @@
-````markdown
-# 🚀 Gas Lift & Choke Optimization using Machine Learning
+
+# **Gas Lift & Choke Optimization using Machine Learning**
 
 ## 📌 Overview
 
@@ -14,7 +14,7 @@ Using **synthetic petroleum engineering data**, we train ML models to predict pr
 
 ## ⚡ Features
 
-* 📊 **Synthetic data generation** (physics-inspired for realism)
+* 📊 **Synthetic data generation** (physics-inspired for realism)  
 * 🤖 **ML Models**:
   * Random Forest Regressor → Gas Lift optimization  
   * Gradient Boosting Regressor → Choke optimization  
@@ -87,7 +87,7 @@ Optimal Choke: 64/64 inches → 3239 bbl/day
 ```
 ├── gas_lift_choke_optimization.py   # Main code
 ├── README.md                        # Documentation
-└── example_output.png               # Sample plots (add after running)
+└── example_output.png               # Sample plots 
 ```
 
 ---
@@ -104,15 +104,10 @@ Optimal Choke: 64/64 inches → 3239 bbl/day
 
 Developed by **Janvi Madhukar**
 For academic and research demonstration in **Petroleum Engineering + Machine Learning**
-[LinkedIn](https://www.linkedin.com) | [Email](mailto:youremail@example.com)
+
+[LinkedIn](https://www.linkedin.com/in/janvi-madhukar/) | [Email](mailto:janvimadhukar8213@gmail.com)
 
 ---
 
 🔥 With this project, you can clearly see how **data-driven optimization** improves petroleum production performance!
 
-```
-
----
-
-👉 Next, I can prepare the **plain version (college submission)** with **no emojis, no links, no extra styling**. Do you want me to generate that one too so you have both ready?
-```

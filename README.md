@@ -1,5 +1,3 @@
-Perfect 👍 — here’s the **GitHub version** of your `README.md` with emojis kept for style and clarity. You can copy-paste it directly:
-
 ````markdown
 # 🚀 Gas Lift & Choke Optimization using Machine Learning
 
